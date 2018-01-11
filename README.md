@@ -1,1 +1,2 @@
-# bootstrap-mysql-modal
+# bootstrap modal | ajax | SweetAlert2
+
