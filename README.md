@@ -4,15 +4,19 @@
 <b>ตัวอย่างการ Insert read update delete โดยใช้ Ajax</b><br><br>
   ในตัวอย่างนี้จะมีการใช้งาน ajax ในการทำ  Insert read update delete กับฐานข้อมูล และในตอนที่จะลบข้อมูลจะมีการนำ sweetAlert2 มาใช้ในการทำแจ้งเตื่อนก่อนที่จะลบ
 
-<h2>Insert user<h2>
+Insert user
+
 [![1.1.png](https://s17.postimg.org/i4t5gi5mn/1.1.png)](https://postimg.org/image/ov9mpxssb/)
 
-<h2>View User<h2>
+View User
+
 [![image.png](https://s17.postimg.org/qn2lkv70f/image.png)](https://postimg.org/image/ng8218mkb/)
 
 ๊Update user
+
 [![image.png](https://s17.postimg.org/6fp5sju3j/image.png)](https://postimg.org/image/3lm0f3rx7/)
 
-<h2>Delete user<h2><br />
+Delete user<br/>
 ในส่วนนี้จะมี SweetAlert2 เข้ามาใช้ดังภาพ โดยจะแจ้งเจือนก่อนทำการลบ
+
 [![image.png](https://s17.postimg.org/yft9cu59r/image.png)](https://postimg.org/image/lbnp05d7v/)
