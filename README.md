@@ -20,3 +20,6 @@ Delete user<br/>
 ในส่วนนี้จะมี SweetAlert2 เข้ามาใช้ดังภาพ โดยจะแจ้งเจือนก่อนทำการลบ
 
 [![image.png](https://s17.postimg.org/yft9cu59r/image.png)](https://postimg.org/image/lbnp05d7v/)
+
+
+โปรเจคนี้สร้างไว้สำเป็นตัวอย่างกับตัวกระผมเอง และหวังว่าคนที่เข้ามาอ่านจะได้รับประโยช์ด้วย
