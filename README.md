@@ -12,7 +12,7 @@ View User
 
 [![image.png](https://s17.postimg.org/qn2lkv70f/image.png)](https://postimg.org/image/ng8218mkb/)
 
-๊Update user
+Update user
 
 [![image.png](https://s17.postimg.org/6fp5sju3j/image.png)](https://postimg.org/image/3lm0f3rx7/)
 
